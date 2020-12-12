@@ -1,0 +1,73 @@
+InkData_line_processed/163.png	Á
+InkData_line_processed/33.png	Á
+InkData_line_processed/15.png	À
+InkData_line_processed/322.png	á
+InkData_line_processed/57.png	1
+InkData_line_processed/182.png	á
+InkData_line_processed/76.png	ả
+InkData_line_processed/119.png	
+InkData_line_processed/267.png	1
+InkData_line_processed/126.png	ả
+InkData_line_processed/258.png	1
+InkData_line_processed/39.png	
+InkData_line_processed/232.png	á
+InkData_line_processed/55.png	À
+InkData_line_processed/137.png	1
+InkData_line_processed/199.png	
+InkData_line_processed/255.png	À
+InkData_line_processed/224.png	à
+InkData_line_processed/326.png	ả
+InkData_line_processed/101.png	A
+InkData_line_processed/9.png	
+InkData_line_processed/192.png	á
+InkData_line_processed/72.png	á
+InkData_line_processed/285.png	À
+InkData_line_processed/336.png	ả
+InkData_line_processed/194.png	à
+InkData_line_processed/218.png	1
+InkData_line_processed/168.png	1
+InkData_line_processed/148.png	1
+InkData_line_processed/357.png	1
+InkData_line_processed/25.png	À
+InkData_line_processed/108.png	1
+InkData_line_processed/42.png	á
+InkData_line_processed/359.png	
+InkData_line_processed/153.png	Á
+InkData_line_processed/114.png	à
+InkData_line_processed/63.png	Á
+InkData_line_processed/22.png	á
+InkData_line_processed/298.png	1
+InkData_line_processed/173.png	Á
+InkData_line_processed/240.png	a
+InkData_line_processed/344.png	à
+InkData_line_processed/30.png	a
+InkData_line_processed/291.png	A
+InkData_line_processed/109.png	
+InkData_line_processed/345.png	À
+InkData_line_processed/90.png	a
+InkData_line_processed/56.png	ả
+InkData_line_processed/5.png	À
+InkData_line_processed/45.png	À
+InkData_line_processed/233.png	Á
+InkData_line_processed/158.png	1
+InkData_line_processed/280.png	a
+InkData_line_processed/211.png	A
+InkData_line_processed/175.png	À
+InkData_line_processed/334.png	à
+InkData_line_processed/93.png	Á
+InkData_line_processed/3.png	Á
+InkData_line_processed/284.png	à
+InkData_line_processed/77.png	1
+InkData_line_processed/335.png	À
+InkData_line_processed/254.png	à
+InkData_line_processed/78.png	1
+InkData_line_processed/46.png	ả
+InkData_line_processed/272.png	á
+InkData_line_processed/73.png	Á
+InkData_line_processed/222.png	á
+InkData_line_processed/124.png	à
+InkData_line_processed/297.png	1
+InkData_line_processed/82.png	á
+InkData_line_processed/94.png	à
+InkData_line_processed/341.png	A
+InkData_line_processed/303.png	Á
